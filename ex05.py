@@ -1,5 +1,6 @@
 #--coding: utf-8 --
-#date:20170814
+#Date:20170814
+#Title:ex05 更多的变量和打印
 
 my_name='Zed A. Shaw'
 my_age=35 #not a lie
@@ -20,6 +21,13 @@ print('His teeth are usually %s depending on the coffee.' %my_teeth)
 print('If I add %d, %d, and %d I get %d.' %(my_age, my_height, my_weight, my_age + my_height + my_weight))
 
 #add score
+#引用网址：http://old.sebug.net/paper/books/LearnPythonTheHardWay/
+#>修改所有的变量名字，把它们前面的``my_``去掉。确认将每一个地方的都改掉，不只是你使用``=``赋值过的地方。
+#>试着使用更多的格式化字符。例如 %r 就是是非常有用的一个，它的含义是“不管什么都打印出来”。
+#>在网上搜索所有的 Python 格式化字符。
+#>试着使用变量将英寸和磅转换成厘米和千克。不要直接键入答案。使用 Python 的计算功能来完成。
+
+
 print('\n','add score 1','\n','------------------\n')
 name= 'Bruce Cao'
 age= 32 # not a lie
