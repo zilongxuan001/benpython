@@ -1,3 +1,6 @@
+#--coding: utf-8 --
+#Date:20170818
+#Title:ex13 参数、解包、变量
 
 #导入模组sys。
 from sys import argv
