@@ -80,6 +80,9 @@ print('name: %*s,age:%0*d'%(10,student[1]['name'],10,student[1]['grade']))
 
 h=123.2356
 print('The tree is %.2f high.' %h)
+ 
+print("%(name)s grade is %(grade)d"%student[1])
+
 
 
 
