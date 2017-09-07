@@ -1,3 +1,7 @@
+#--coding: utf-8 --
+#Date:20170905
+#Title:ex32 循环和列表
+
 the_count= [1, 2, 3, 4, 5]
 fruits = ['apples', 'oranges', 'pears', 'appicous']
 change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
@@ -28,6 +32,7 @@ for i in range(0, 6):
 for i in elements:
 	print("Element was: %d" %i)
 
+#引用网址：http://old.sebug.net/paper/books/LearnPythonTheHardWay/	
 #面对不会的东西时，你应该怎么做？
 
 # 习惯性思维告诉你的大脑大地是平的。记得上一个练习中的 if 语句嵌套吧，你可能觉得要理解它有些难度，因为生活中一般人不会去像这样的问题，但这样的问题在编程中几乎到处都是。你会看到一个函数调用另外一个包含 if 语句的函数，其中又有嵌套列表的列表。
