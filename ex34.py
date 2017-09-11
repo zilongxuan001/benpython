@@ -24,19 +24,6 @@ print("The animal an 4 is the 5th animal and is a %s."%animals[4])
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #引用网址：http://old.sebug.net/paper/books/LearnPythonTheHardWay/	
 
 #知识
