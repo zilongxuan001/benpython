@@ -5,3 +5,5 @@
 #贵在坚持。
 
 学习网站：[笨办法学 Python （Learn Python The Hard Way）](http://old.sebug.net/paper/books/LearnPythonTheHardWay/)
+
+学到第41个练习。
